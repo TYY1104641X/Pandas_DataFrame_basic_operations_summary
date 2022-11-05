@@ -16,3 +16,11 @@ e) Observed data information
 f) Change data types
 
 g) Remove charaters in specific columns
+
+h) Add or drop columns/rows
+
+i) Handle missing values (NAN)
+
+j) Group data
+
+k) Max/Min and idxmin/idxmax
