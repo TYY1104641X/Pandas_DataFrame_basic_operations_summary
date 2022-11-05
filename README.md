@@ -24,3 +24,5 @@ i) Handle missing values (NAN)
 j) Group data
 
 k) Max/Min and idxmin/idxmax
+
+l) Add date stamp
