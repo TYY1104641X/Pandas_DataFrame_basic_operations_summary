@@ -29,3 +29,6 @@ j) Group data
 k) Max/Min and idxmin/idxmax
 
 l) Add date stamp
+
+
+Please feel free to let me delete the corresponding files if they infringe on your copyright.
