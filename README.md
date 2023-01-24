@@ -1,4 +1,7 @@
 # Pandas_DataFrame_basic_operations_summary
+
+@ Yuanyuan Tang
+
 The code file summaries the most frequently used operations on Pandas DataFrame
 
 The file contains many frequent operations on DataFrame of Pandas, including 
